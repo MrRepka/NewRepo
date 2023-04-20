@@ -20,3 +20,16 @@ C:\Users\Fnafg\Desktop\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ex
 C:\Users\Fnafg\Desktop\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Fnafg\Desktop\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cart.resources
 C:\Users\Fnafg\Desktop\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.order.resources
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cart.resources
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.order.resources
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Fnafg\source\repos\test\магаз\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
